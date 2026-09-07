@@ -1,4 +1,3 @@
-Markdown
 # Práctica I: De los píxeles a la integral
 **Por:** Camilo Argel - Nicolás Gil
 
@@ -18,6 +17,7 @@ Repositorio para la primera práctica del curso ST0244, enfocada en el procesami
 │   └── main.pl
 ├── curva_binaria_P4.pbm
 └── README.md
+```
 Entorno de Desarrollo
 Sistema operativo: Windows
 
