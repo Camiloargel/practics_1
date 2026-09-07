@@ -32,6 +32,7 @@ Desde la carpeta Haskell/:
 
 Bash
 ghc -O2 -o main Main.hs
+[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 ./main ../curva_binaria_P4.pbm
 2. Prolog
 Desde la carpeta Prolog/:
