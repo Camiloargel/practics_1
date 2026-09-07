@@ -41,6 +41,7 @@ Desde la carpeta Prolog/:
 
 Bash
 swipl main.pl ../curva_binaria_P4.pbm
+
 Estrategia de Visualización en Consola
 La imagen original (567 × 319 píxeles) es mucho más grande que una terminal. Por eso se usa muestreo espacial (nearest-neighbor): por cada carácter disponible en la consola, se calcula proporcionalmente a qué píxel de la imagen original le corresponde, y solo se consulta ese píxel. Así se conserva la forma general de la curva sin imprimir los más de 180 000 píxeles originales.
 
