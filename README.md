@@ -33,7 +33,7 @@ Desde la carpeta Haskell/:
 
 Bash
 
-[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+-[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 
 ghc -O2 -o main Main.hs
 
