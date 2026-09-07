@@ -1,7 +1,7 @@
 -- ============================================================
 -- ST0244 - Practica I: De los pixeles a la integral
 -- PARTE I: Solucion funcional en Haskell
--- Autor: (equipo)
+
 --
 -- Idea central: la matriz de alturas M es el resultado de
 -- APLICAR una funcion f a cada posicion del dominio:
