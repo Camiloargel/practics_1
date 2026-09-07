@@ -1,4 +1,4 @@
-Readme final · MD
+
 Práctica I: De los píxeles a la integral
 por: Camilo Argel - Nicolas Gil
 
